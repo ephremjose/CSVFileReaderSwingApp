@@ -1,0 +1,421 @@
+íOñ°U|™„}‡¨ƒ¬Û«yìOñ°T|™„|‡
+
+User clicked OPEN Button.
+
+User clicked OPEN Button.
+Processing file : boomi_test.csv
+Calling extractCSVFileData() 
+Reading file. 
+ Input date : 03/31/2007T03:32:12Z, Formatted Date : 3/31/07 3:32 AM EDT
+ Input Value : 50, Formatted Value : $50.00
+ Input date : 04/02/2006T14:23:47Z, Formatted Date : 4/2/06 2:23 PM EDT
+ Input Value : 5.5, Formatted Value : $5.50
+ Input date : 07/18/2006T13:53:23Z, Formatted Date : 7/18/06 1:53 PM EDT
+ Input Value : .23, Formatted Value : $0.23
+ Input date : 12/24/2006T22:00:08Z, Formatted Date : 12/24/06 10:0 PM EDT
+ Input Value : 2.61, Formatted Value : $2.61
+ Number of duplicate records : 48
+ Adding the values from ArrayList to Array. 
+Adding rows from csv file to JTable. 
+
+
+User clicked OPEN Button.
+Processing file : boomi_test.csv
+Subsequent Load. Removing existing rows from table. 
+Calling extractCSVFileData() 
+Reading file. 
+ Input date : 03/31/2007T03:32:12Z, Formatted Date : 3/31/07 3:32 AM EDT
+ Input Value : 50, Formatted Value : $50.00
+ Input date : 04/02/2006T14:23:47Z, Formatted Date : 4/2/06 2:23 PM EDT
+ Input Value : 5.5, Formatted Value : $5.50
+ Input date : 07/18/2006T13:53:23Z, Formatted Date : 7/18/06 1:53 PM EDT
+ Input Value : .23, Formatted Value : $0.23
+ Input date : 12/24/2006T22:00:08Z, Formatted Date : 12/24/06 10:0 PM EDT
+ Input Value : 2.61, Formatted Value : $2.61
+ Input date : 03/31/2007T03:32:12Z, Formatted Date : 3/31/07 3:32 AM EDT
+ Input Value : 50, Formatted Value : $50.00
+ Input date : 04/02/2006T14:23:47Z, Formatted Date : 4/2/06 2:23 PM EDT
+ Input Value : 5.5, Formatted Value : $5.50
+ Input date : 07/18/2006T13:53:23Z, Formatted Date : 7/18/06 1:53 PM EDT
+ Input Value : .23, Formatted Value : $0.23
+ Input date : 03/21/2007T03:32:12Z, Formatted Date : 3/21/07 3:32 AM EDT
+ Input Value : 50, Formatted Value : $50.00
+ Input date : 04/01/2006T14:23:47Z, Formatted Date : 4/1/06 2:23 PM EDT
+ Input Value : 5.5, Formatted Value : $5.50
+ Input date : 08/18/2006T13:53:23Z, Formatted Date : 8/18/06 1:53 PM EDT
+ Input Value : .23, Formatted Value : $0.23
+ Input date : 11/24/2006T22:00:08Z, Formatted Date : 11/24/06 10:0 PM EDT
+ Input Value : 2.61, Formatted Value : $2.61
+ Input date : 03/31/2007T03:32:12Z, Formatted Date : 3/31/07 3:32 AM EDT
+ Input Value : 50, Formatted Value : $50.00
+ Input date : 04/02/2006T14:23:47Z, Formatted Date : 4/2/06 2:23 PM EDT
+ Input Value : 5.5, Formatted Value : $5.50
+ Input date : 07/18/2006T13:53:23Z, Formatted Date : 7/18/06 1:53 PM EDT
+ Input Value : .23, Formatted Value : $0.23
+ Input date : 12/24/2006T22:00:08Z, Formatted Date : 12/24/06 10:0 PM EDT
+ Input Value : 2.61, Formatted Value : $2.61
+ Input date : 10/31/2007T03:32:12Z, Formatted Date : 10/31/07 3:32 AM EDT
+ Input Value : 50, Formatted Value : $50.00
+ Input date : 01/12/2006T14:23:47Z, Formatted Date : 1/12/06 2:23 PM EDT
+ Input Value : 5.5, Formatted Value : $5.50
+ Input date : 09/12/2006T13:53:23Z, Formatted Date : 9/12/06 1:53 PM EDT
+ Input Value : .23, Formatted Value : $0.23
+ Input date : 03/24/2007T03:32:12Z, Formatted Date : 3/24/07 3:32 AM EDT
+ Input Value : 50, Formatted Value : $50.00
+ Input date : 04/12/2006T14:23:47Z, Formatted Date : 4/12/06 2:23 PM EDT
+ Input Value : 5.5, Formatted Value : $5.50
+ Input date : 07/13/2006T13:53:23Z, Formatted Date : 7/13/06 1:53 PM EDT
+ Input Value : .23, Formatted Value : $0.23
+ Input date : 12/10/2006T22:00:08Z, Formatted Date : 12/10/06 10:0 PM EDT
+ Input Value : 2.61, Formatted Value : $2.61
+ Number of duplicate records : 2
+ Adding the values from ArrayList to Array. 
+Adding rows from csv file to JTable. 
+
+
+User clicked OPEN Button.
+Processing file : boomi_test.csv
+Subsequent Load. Removing existing rows from table. 
+Calling extractCSVFileData() 
+Reading file. 
+ Input date : 03/31/2007T03:32:12Z, Formatted Date : 3/31/07 3:32 AM EDT
+ Input Value : 50, Formatted Value : $50.00
+ Input date : 04/02/2006T14:23:47Z, Formatted Date : 4/2/06 2:23 PM EDT
+ Input Value : 5.5, Formatted Value : $5.50
+ Input date : 07/18/2006T13:53:23Z, Formatted Date : 7/18/06 1:53 PM EDT
+ Input Value : .23, Formatted Value : $0.23
+ Input date : 12/24/2006T22:00:08Z, Formatted Date : 12/24/06 10:0 PM EDT
+ Input Value : 2.61, Formatted Value : $2.61
+ Input date : 03/31/2007T03:32:12Z, Formatted Date : 3/31/07 3:32 AM EDT
+ Input Value : 50, Formatted Value : $50.00
+ Input date : 04/02/2006T14:23:47Z, Formatted Date : 4/2/06 2:23 PM EDT
+ Input Value : 5.5, Formatted Value : $5.50
+ Input date : 07/18/2006T13:53:23Z, Formatted Date : 7/18/06 1:53 PM EDT
+ Input Value : .23, Formatted Value : $0.23
+ Input Value : 2.61, Formatted Value : $2.61
+ Input date : 03/21/2007T03:32:12Z, Formatted Date : 3/21/07 3:32 AM EDT
+ Input Value : 50, Formatted Value : $50.00
+ Input date : 04/01/2006T14:23:47Z, Formatted Date : 4/1/06 2:23 PM EDT
+ Input Value : 5.5, Formatted Value : $5.50
+ Input date : 08/18/2006T13:53:23Z, Formatted Date : 8/18/06 1:53 PM EDT
+ Input Value : .23, Formatted Value : $0.23
+ Input date : 11/24/2006T22:00:08Z, Formatted Date : 11/24/06 10:0 PM EDT
+ Input Value : 2.61, Formatted Value : $2.61
+ Input date : 03/31/2007T03:32:12Z, Formatted Date : 3/31/07 3:32 AM EDT
+ Input Value : 50, Formatted Value : $50.00
+ Input date : 04/02/2006T14:23:47Z, Formatted Date : 4/2/06 2:23 PM EDT
+ Input Value : 5.5, Formatted Value : $5.50
+ Input date : 07/18/2006T13:53:23Z, Formatted Date : 7/18/06 1:53 PM EDT
+ Input Value : .23, Formatted Value : $0.23
+ Input date : 12/24/2006T22:00:08Z, Formatted Date : 12/24/06 10:0 PM EDT
+ Input Value : 2.61, Formatted Value : $2.61
+ Input date : 10/31/2007T03:32:12Z, Formatted Date : 10/31/07 3:32 AM EDT
+ Input Value : 50, Formatted Value : $50.00
+ Input date : 01/12/2006T14:23:47Z, Formatted Date : 1/12/06 2:23 PM EDT
+ Input Value : 5.5, Formatted Value : $5.50
+ Input date : 09/12/2006T13:53:23Z, Formatted Date : 9/12/06 1:53 PM EDT
+ Input date : 03/24/2007T03:32:12Z, Formatted Date : 3/24/07 3:32 AM EDT
+ Input Value : 50, Formatted Value : $50.00
+ Input date : 04/12/2006T14:23:47Z, Formatted Date : 4/12/06 2:23 PM EDT
+ Input Value : 5.5, Formatted Value : $5.50
+ Input date : 07/13/2006T13:53:23Z, Formatted Date : 7/13/06 1:53 PM EDT
+ Input Value : .23, Formatted Value : $0.23
+ Input date : 12/10/2006T22:00:08Z, Formatted Date : 12/10/06 10:0 PM EDT
+ Input Value : 2.61, Formatted Value : $2.61
+ Input date : 12/24/2006T22:00:08Z, Formatted Date : 12/24/06 10:0 PM EDT
+ Input Value : 2.61, Formatted Value : $2.61
+ Input date : 01/12/2006T14:23:47Z, Formatted Date : 1/12/06 2:23 PM EDT
+ Input Value : 5.5, Formatted Value : $5.50
+ Input date : 09/12/2006T13:53:23Z, Formatted Date : 9/12/06 1:53 PM EDT
+ Input Value : .23, Formatted Value : $0.23
+ Input date : 04/12/2006T14:23:47Z, Formatted Date : 4/12/06 2:23 PM EDT
+ Input Value : 5.5, Formatted Value : $5.50
+ Input date : 12/10/2006T22:00:08Z, Formatted Date : 12/10/06 10:0 PM EDT
+ Input Value : 2.61, Formatted Value : $2.61
+ Number of duplicate records : 6
+ Adding the values from ArrayList to Array. 
+Adding rows from csv file to JTable. 
+
+
+User clicked OPEN Button.
+Processing file : boomi.csv
+Calling extractCSVFileData() 
+Reading file. 
+ Input date : 03/31/2007T00:00:00Z, Formatted Date : 3/31/07 0:0 AM EDT
+ Input Value : 10050000000000000000000000000, Formatted Value : $10,050,000,000,000,000,000,000,000,000.00
+ Input date : 07/18/2006T12:01:01Z, Formatted Date : 7/18/06 12:1 PM EDT
+ Input Value : .23, Formatted Value : $0.23
+ Input date : 12/24/2006T22:00:08Z, Formatted Date : 12/24/06 10:0 PM EDT
+ Input Value : 2.61, Formatted Value : $2.61
+ Input date : 03/31/2007T03:32:12Z, Formatted Date : 3/31/07 3:32 AM EDT
+ Input Value : 50, Formatted Value : $50.00
+ Input date : 04/02/2006T14:23:47Z, Formatted Date : 4/2/06 2:23 PM EDT
+ Input Value : 5.5, Formatted Value : $5.50
+ Input date : 07/18/2006T13:53:23Z, Formatted Date : 7/18/06 1:53 PM EDT
+ Input Value : 2.0, Formatted Value : $2.00
+ Input date : 04/02/2006T23:59:59Z, Formatted Date : 4/2/06 11:59 PM EDT
+ Input Value : ., Formatted Value : $0.00
+ Number of duplicate records : 5
+ Adding the values from ArrayList to Array. 
+Adding rows from csv file to JTable. 
+
+
+User clicked OPEN Button.
+Processing file : boomi_test.csv
+Subsequent Load. Removing existing rows from table. 
+Calling extractCSVFileData() 
+Reading file. 
+ Input date : 03/31/2007T03:32:12Z, Formatted Date : 3/31/07 3:32 AM EDT
+ Input Value : 50, Formatted Value : $50.00
+ Input date : 04/02/2006T14:23:47Z, Formatted Date : 4/2/06 2:23 PM EDT
+ Input Value : 5.5, Formatted Value : $5.50
+ Input date : 07/18/2006T13:53:23Z, Formatted Date : 7/18/06 1:53 PM EDT
+ Input Value : .23, Formatted Value : $0.23
+ Input date : 12/24/2006T22:00:08Z, Formatted Date : 12/24/06 10:0 PM EDT
+ Input Value : 2.61, Formatted Value : $2.61
+ Input date : 03/31/2007T03:32:12Z, Formatted Date : 3/31/07 3:32 AM EDT
+ Input Value : 50, Formatted Value : $50.00
+ Input date : 04/02/2006T14:23:47Z, Formatted Date : 4/2/06 2:23 PM EDT
+ Input Value : 5.5, Formatted Value : $5.50
+ Input date : 07/18/2006T13:53:23Z, Formatted Date : 7/18/06 1:53 PM EDT
+ Input Value : .23, Formatted Value : $0.23
+ Input Value : 2.61, Formatted Value : $2.61
+ Input date : 03/21/2007T03:32:12Z, Formatted Date : 3/21/07 3:32 AM EDT
+ Input Value : 50, Formatted Value : $50.00
+ Input date : 04/01/2006T14:23:47Z, Formatted Date : 4/1/06 2:23 PM EDT
+ Input Value : 5.5, Formatted Value : $5.50
+ Input date : 08/18/2006T13:53:23Z, Formatted Date : 8/18/06 1:53 PM EDT
+ Input Value : .23, Formatted Value : $0.23
+ Input date : 11/24/2006T22:00:08Z, Formatted Date : 11/24/06 10:0 PM EDT
+ Input Value : 2.61, Formatted Value : $2.61
+ Input date : 03/31/2007T03:32:12Z, Formatted Date : 3/31/07 3:32 AM EDT
+ Input Value : 50, Formatted Value : $50.00
+ Input date : 04/02/2006T14:23:47Z, Formatted Date : 4/2/06 2:23 PM EDT
+ Input Value : 5.5, Formatted Value : $5.50
+ Input date : 07/18/2006T13:53:23Z, Formatted Date : 7/18/06 1:53 PM EDT
+ Input Value : .23, Formatted Value : $0.23
+ Input date : 12/24/2006T22:00:08Z, Formatted Date : 12/24/06 10:0 PM EDT
+ Input Value : 2.61, Formatted Value : $2.61
+ Input date : 10/31/2007T03:32:12Z, Formatted Date : 10/31/07 3:32 AM EDT
+ Input Value : 50, Formatted Value : $50.00
+ Input date : 01/12/2006T14:23:47Z, Formatted Date : 1/12/06 2:23 PM EDT
+ Input Value : 5.5, Formatted Value : $5.50
+ Input date : 09/12/2006T13:53:23Z, Formatted Date : 9/12/06 1:53 PM EDT
+ Input date : 03/24/2007T03:32:12Z, Formatted Date : 3/24/07 3:32 AM EDT
+ Input Value : 50, Formatted Value : $50.00
+ Input date : 04/12/2006T14:23:47Z, Formatted Date : 4/12/06 2:23 PM EDT
+ Input Value : 5.5, Formatted Value : $5.50
+ Input date : 07/13/2006T13:53:23Z, Formatted Date : 7/13/06 1:53 PM EDT
+ Input Value : .23, Formatted Value : $0.23
+ Input date : 12/10/2006T22:00:08Z, Formatted Date : 12/10/06 10:0 PM EDT
+ Input Value : 2.61, Formatted Value : $2.61
+ Input date : 12/24/2006T22:00:08Z, Formatted Date : 12/24/06 10:0 PM EDT
+ Input Value : 2.61, Formatted Value : $2.61
+ Input date : 01/12/2006T14:23:47Z, Formatted Date : 1/12/06 2:23 PM EDT
+ Input Value : 5.5, Formatted Value : $5.50
+ Input date : 09/12/2006T13:53:23Z, Formatted Date : 9/12/06 1:53 PM EDT
+ Input Value : .23, Formatted Value : $0.23
+ Input date : 04/12/2006T14:23:47Z, Formatted Date : 4/12/06 2:23 PM EDT
+ Input Value : 5.5, Formatted Value : $5.50
+ Input date : 12/10/2006T22:00:08Z, Formatted Date : 12/10/06 10:0 PM EDT
+ Input Value : 2.61, Formatted Value : $2.61
+ Number of duplicate records : 6
+ Adding the values from ArrayList to Array. 
+Adding rows from csv file to JTable. 
+
+
+User clicked OPEN Button.
+Processing file : boomi_test.csv
+Calling extractCSVFileData() 
+Reading file. 
+ Input date : 03/31/2007T03:32:12Z, Formatted Date : 3/31/07 3:32 AM EDT
+ Input Value : 50, Formatted Value : $50.00
+ Input date : 04/02/2006T14:23:47Z, Formatted Date : 4/2/06 2:23 PM EDT
+ Input Value : 5.5, Formatted Value : $5.50
+ Input date : 07/18/2006T13:53:23Z, Formatted Date : 7/18/06 1:53 PM EDT
+ Input Value : .23, Formatted Value : $0.23
+ Input date : 12/24/2006T22:00:08Z, Formatted Date : 12/24/06 10:0 PM EDT
+ Input Value : 2.61, Formatted Value : $2.61
+ Input date : 03/31/2007T03:32:12Z, Formatted Date : 3/31/07 3:32 AM EDT
+ Input Value : 50, Formatted Value : $50.00
+ Input date : 04/02/2006T14:23:47Z, Formatted Date : 4/2/06 2:23 PM EDT
+ Input Value : 5.5, Formatted Value : $5.50
+ Input date : 07/18/2006T13:53:23Z, Formatted Date : 7/18/06 1:53 PM EDT
+ Input Value : .23, Formatted Value : $0.23
+ Input Value : 2.61, Formatted Value : $2.61
+ Input date : 03/21/2007T03:32:12Z, Formatted Date : 3/21/07 3:32 AM EDT
+ Input Value : 50, Formatted Value : $50.00
+ Input date : 04/01/2006T14:23:47Z, Formatted Date : 4/1/06 2:23 PM EDT
+ Input Value : 5.5, Formatted Value : $5.50
+ Input date : 08/18/2006T13:53:23Z, Formatted Date : 8/18/06 1:53 PM EDT
+ Input Value : .23, Formatted Value : $0.23
+ Input date : 11/24/2006T22:00:08Z, Formatted Date : 11/24/06 10:0 PM EDT
+ Input Value : 2.61, Formatted Value : $2.61
+ Input date : 03/31/2007T03:32:12Z, Formatted Date : 3/31/07 3:32 AM EDT
+ Input Value : 50, Formatted Value : $50.00
+ Input date : 04/02/2006T14:23:47Z, Formatted Date : 4/2/06 2:23 PM EDT
+ Input Value : 5.5, Formatted Value : $5.50
+ Input date : 07/18/2006T13:53:23Z, Formatted Date : 7/18/06 1:53 PM EDT
+ Input Value : .23, Formatted Value : $0.23
+ Input date : 12/24/2006T22:00:08Z, Formatted Date : 12/24/06 10:0 PM EDT
+ Input Value : 2.61, Formatted Value : $2.61
+ Input date : 10/31/2007T03:32:12Z, Formatted Date : 10/31/07 3:32 AM EDT
+ Input Value : 50, Formatted Value : $50.00
+ Input date : 01/12/2006T14:23:47Z, Formatted Date : 1/12/06 2:23 PM EDT
+ Input Value : 5.5, Formatted Value : $5.50
+ Input date : 09/12/2006T13:53:23Z, Formatted Date : 9/12/06 1:53 PM EDT
+ Input date : 03/24/2007T03:32:12Z, Formatted Date : 3/24/07 3:32 AM EDT
+ Input Value : 50, Formatted Value : $50.00
+ Input date : 04/12/2006T14:23:47Z, Formatted Date : 4/12/06 2:23 PM EDT
+ Input Value : 5.5, Formatted Value : $5.50
+ Input date : 07/13/2006T13:53:23Z, Formatted Date : 7/13/06 1:53 PM EDT
+ Input Value : .23, Formatted Value : $0.23
+ Input date : 12/10/2006T22:00:08Z, Formatted Date : 12/10/06 10:0 PM EDT
+ Input Value : 2.61, Formatted Value : $2.61
+ Input date : 12/24/2006T22:00:08Z, Formatted Date : 12/24/06 10:0 PM EDT
+ Input Value : 2.61, Formatted Value : $2.61
+ Input date : 01/12/2006T14:23:47Z, Formatted Date : 1/12/06 2:23 PM EDT
+ Input Value : 5.5, Formatted Value : $5.50
+ Input date : 09/12/2006T13:53:23Z, Formatted Date : 9/12/06 1:53 PM EDT
+ Input Value : .23, Formatted Value : $0.23
+ Input date : 04/12/2006T14:23:47Z, Formatted Date : 4/12/06 2:23 PM EDT
+ Input Value : 5.5, Formatted Value : $5.50
+ Input date : 12/10/2006T22:00:08Z, Formatted Date : 12/10/06 10:0 PM EDT
+ Input Value : 2.61, Formatted Value : $2.61
+ Number of duplicate records : 6
+ Adding the values from ArrayList to Array. 
+Adding rows from csv file to JTable. Number of Rows : 28 
+
+
+User clicked OPEN Button.
+Processing file : boomi_test.csv
+Calling extractCSVFileData() 
+Reading file. 
+ Input date : 03/31/2007T03:32:12Z, Formatted Date : 3/31/07 3:32 AM EDT
+ Input Value : 50, Formatted Value : $50.00
+ Input date : 04/02/2006T14:23:47Z, Formatted Date : 4/2/06 2:23 PM EDT
+ Input Value : 5.5, Formatted Value : $5.50
+ Input date : 07/18/2006T13:53:23Z, Formatted Date : 7/18/06 1:53 PM EDT
+ Input Value : .23, Formatted Value : $0.23
+ Input date : 12/24/2006T22:00:08Z, Formatted Date : 12/24/06 10:0 PM EDT
+ Input Value : 2.61, Formatted Value : $2.61
+ Input date : 03/31/2007T03:32:12Z, Formatted Date : 3/31/07 3:32 AM EDT
+ Input Value : 50, Formatted Value : $50.00
+ Input date : 04/02/2006T14:23:47Z, Formatted Date : 4/2/06 2:23 PM EDT
+ Input Value : 5.5, Formatted Value : $5.50
+ Input date : 07/18/2006T13:53:23Z, Formatted Date : 7/18/06 1:53 PM EDT
+ Input Value : .23, Formatted Value : $0.23
+ Input Value : 2.61, Formatted Value : $2.61
+ Input date : 03/21/2007T03:32:12Z, Formatted Date : 3/21/07 3:32 AM EDT
+ Input Value : 50, Formatted Value : $50.00
+ Input date : 04/01/2006T14:23:47Z, Formatted Date : 4/1/06 2:23 PM EDT
+ Input Value : 5.5, Formatted Value : $5.50
+ Input date : 08/18/2006T13:53:23Z, Formatted Date : 8/18/06 1:53 PM EDT
+ Input Value : .23, Formatted Value : $0.23
+ Input date : 11/24/2006T22:00:08Z, Formatted Date : 11/24/06 10:0 PM EDT
+ Input Value : 2.61, Formatted Value : $2.61
+ Input date : 03/31/2007T03:32:12Z, Formatted Date : 3/31/07 3:32 AM EDT
+ Input Value : 50, Formatted Value : $50.00
+ Input date : 04/02/2006T14:23:47Z, Formatted Date : 4/2/06 2:23 PM EDT
+ Input Value : 5.5, Formatted Value : $5.50
+ Input date : 07/18/2006T13:53:23Z, Formatted Date : 7/18/06 1:53 PM EDT
+ Input Value : .23, Formatted Value : $0.23
+ Input date : 12/24/2006T22:00:08Z, Formatted Date : 12/24/06 10:0 PM EDT
+ Input Value : 2.61, Formatted Value : $2.61
+ Input date : 10/31/2007T03:32:12Z, Formatted Date : 10/31/07 3:32 AM EDT
+ Input Value : 50, Formatted Value : $50.00
+ Input date : 01/12/2006T14:23:47Z, Formatted Date : 1/12/06 2:23 PM EDT
+ Input Value : 5.5, Formatted Value : $5.50
+ Input date : 09/12/2006T13:53:23Z, Formatted Date : 9/12/06 1:53 PM EDT
+ Input date : 03/24/2007T03:32:12Z, Formatted Date : 3/24/07 3:32 AM EDT
+ Input Value : 50, Formatted Value : $50.00
+ Input date : 04/12/2006T14:23:47Z, Formatted Date : 4/12/06 2:23 PM EDT
+ Input Value : 5.5, Formatted Value : $5.50
+ Input date : 07/13/2006T13:53:23Z, Formatted Date : 7/13/06 1:53 PM EDT
+ Input Value : .23, Formatted Value : $0.23
+ Input date : 12/10/2006T22:00:08Z, Formatted Date : 12/10/06 10:0 PM EDT
+ Input Value : 2.61, Formatted Value : $2.61
+ Input date : 12/24/2006T22:00:08Z, Formatted Date : 12/24/06 10:0 PM EDT
+ Input Value : 2.61, Formatted Value : $2.61
+ Input date : 01/12/2006T14:23:47Z, Formatted Date : 1/12/06 2:23 PM EDT
+ Input Value : 5.5, Formatted Value : $5.50
+ Input date : 09/12/2006T13:53:23Z, Formatted Date : 9/12/06 1:53 PM EDT
+ Input Value : .23, Formatted Value : $0.23
+ Input date : 04/12/2006T14:23:47Z, Formatted Date : 4/12/06 2:23 PM EDT
+ Input Value : 5.5, Formatted Value : $5.50
+ Input date : 12/10/2006T22:00:08Z, Formatted Date : 12/10/06 10:0 PM EDT
+ Input Value : 2.61, Formatted Value : $2.61
+ Input date : 10/31/2003T03:32:12Z, Formatted Date : 10/31/03 3:32 AM EDT
+ Input Value : 50, Formatted Value : $50.00
+ Input date : 01/12/2002T14:23:47Z, Formatted Date : 1/12/02 2:23 PM EDT
+ Input Value : 5.5, Formatted Value : $5.50
+ Input date : 09/12/2001T13:53:23Z, Formatted Date : 9/12/01 1:53 PM EDT
+ Input date : 12/24/2000T22:00:08Z, Formatted Date : 12/24/00 10:0 PM EDT
+ Input Value : 2.61, Formatted Value : $2.61
+ Input date : 03/24/2010T03:32:12Z, Formatted Date : 3/24/10 3:32 AM EDT
+ Input Value : 50, Formatted Value : $50.00
+ Input date : 04/12/2006T14:23:47Z, Formatted Date : 4/12/06 2:23 PM EDT
+ Input Value : 5.5, Formatted Value : $5.50
+ Number of duplicate records : 7
+ Adding the values from ArrayList to Array. 
+Adding rows from csv file to JTable. Number of Rows : 34 
+
+
+User clicked OPEN Button.
+Processing file : boomi_test.csv
+Calling extractCSVFileData() 
+Reading file. 
+ Number of duplicate records : 0
+ Adding the values from ArrayList to Array. 
+User selected an empty file. Throwing exception. 
+Exiting application. 
+
+
+User clicked OPEN Button.
+Processing file : boomi.csv
+Calling extractCSVFileData() 
+Reading file. 
+ Input date : 03/31/2007T00:00:00Z, Formatted Date : 3/31/07 0:0 AM EDT
+ Input Value : 10050000000000000000000000000, Formatted Value : $10,050,000,000,000,000,000,000,000,000.00
+ Input date : 07/18/2006T12:01:01Z, Formatted Date : 7/18/06 12:1 PM EDT
+ Input Value : .23, Formatted Value : $0.23
+ Input date : 12/24/2006T22:00:08Z, Formatted Date : 12/24/06 10:0 PM EDT
+ Input Value : 0.0, Formatted Value : $0.00
+ Input date : 03/31/2007T03:32:12Z, Formatted Date : 3/31/07 3:32 AM EDT
+ Input Value : 50000000, Formatted Value : $50,000,000.00
+ Input Value : 5.5, Formatted Value : $5.50
+ Input date : 07/18/2006T13:53:23Z, Formatted Date : 7/18/06 1:53 PM EDT
+ Input Value : 2.0, Formatted Value : $2.00
+ Input date : 03/31/2007T03:32:12Z, Formatted Date : 3/31/07 3:32 AM EDT
+ Input Value : 50, Formatted Value : $50.00
+ Input date : 04/02/2006T14:23:47Z, Formatted Date : 4/2/06 2:23 PM EDT
+ Input date : 04/02/2006T23:59:59Z, Formatted Date : 4/2/06 11:59 PM EDT
+ Input Value : ., Formatted Value : $0.00
+ Number of duplicate records : 3
+ Adding the values from ArrayList to Array. 
+Adding rows from csv file to JTable. Number of Rows : 10 
+
+
+User clicked OPEN Button.
+Processing file : boomi.csv
+Calling extractCSVFileData() 
+Reading file. 
+ Input date : 03/31/2007T00:00:00Z, Formatted Date : 3/31/07 0:0 AM EDT
+ Input Value : 10050000000000000000000000000, Formatted Value : $10,050,000,000,000,000,000,000,000,000.00
+ Input date : 07/18/2006T12:01:01Z, Formatted Date : 7/18/06 12:1 PM EDT
+ Input Value : .23, Formatted Value : $0.23
+ Input date : 12/24/2006T22:00:08Z, Formatted Date : 12/24/06 10:0 PM EDT
+ Input Value : 0.0, Formatted Value : $0.00
+ Input date : 03/31/2007T03:32:12Z, Formatted Date : 3/31/07 3:32 AM EDT
+ Input Value : 50000000, Formatted Value : $50,000,000.00
+ Input Value : 5.5, Formatted Value : $5.50
+ Input date : 07/18/2006T13:53:23Z, Formatted Date : 7/18/06 1:53 PM EDT
+ Input Value : 2.0, Formatted Value : $2.00
+ Input date : 03/31/2007T03:32:12Z, Formatted Date : 3/31/07 3:32 AM EDT
+ Input Value : 50, Formatted Value : $50.00
+ Input date : 04/02/2006T14:23:47Z, Formatted Date : 4/2/06 2:23 PM EDT
+ Input date : 04/02/2006T23:59:59Z, Formatted Date : 4/2/06 11:59 PM EDT
+ Input Value : ., Formatted Value : $0.00
+ Number of duplicate records : 3
+ Adding the values from ArrayList to Array. 
+Adding rows from csv file to JTable. Number of Rows : 10 
